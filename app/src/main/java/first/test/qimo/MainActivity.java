@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
   //哈哈写的什么玩意?
 <<<<<<< HEAD
 	//你好牛
+	//电饭锅昏迷是和GV用户将好几年
 =======
  //你是个什么东西
 >>>>>>> 1c908ff426e334b528cdd2024305158339571ee0
